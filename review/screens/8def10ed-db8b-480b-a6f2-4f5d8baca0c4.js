@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737766329957.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,10 +12,10 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-8def10ed-db8b-480b-a6f2-4f5d8baca0c4" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer pageload ie-background commentable non-processed" alignment="left" name="Notifications"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/8def10ed-db8b-480b-a6f2-4f5d8baca0c4/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/8def10ed-db8b-480b-a6f2-4f5d8baca0c4/fonts-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/8def10ed-db8b-480b-a6f2-4f5d8baca0c4/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/8def10ed-db8b-480b-a6f2-4f5d8baca0c4/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/fonts-1737766329957.css" />\
       <div class="freeLayout">\
       <div id="s-Rectangle_8" class="rectangle manualfit firer commentable non-processed" customid="Bottom"   datasizewidth="158.00px" datasizeheight="17.00px" datasizewidthpx="158.0" datasizeheightpx="17.0" dataX="139.96" dataY="1246.00" >\
         <div class="backgroundLayer">\
@@ -53,7 +53,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         <div id="s-Image_1" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="207.72" aspectRatio="0.8465704"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-          		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+          		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
           	</div>\
           </div>\
         </div>\
@@ -126,7 +126,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         <div id="s-Image_2" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="348.55" aspectRatio="0.8465704"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-          		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+          		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
           	</div>\
           </div>\
         </div>\
@@ -199,7 +199,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         <div id="s-Image_3" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="489.38" aspectRatio="0.8465704"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-          		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+          		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
           	</div>\
           </div>\
         </div>\
@@ -272,7 +272,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         <div id="s-Image_4" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="630.22" aspectRatio="0.8465704"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-          		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+          		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
           	</div>\
           </div>\
         </div>\
@@ -345,7 +345,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         <div id="s-Image_5" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="771.05" aspectRatio="0.8465704"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-          		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+          		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
           	</div>\
           </div>\
         </div>\
@@ -418,7 +418,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         <div id="s-Image_6" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="911.88" aspectRatio="0.8465704"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-          		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+          		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
           	</div>\
           </div>\
         </div>\
@@ -491,7 +491,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
         <div id="s-Image_7" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="1052.72" aspectRatio="0.8465704"   alt="image">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
-          		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+          		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
           	</div>\
           </div>\
         </div>\
