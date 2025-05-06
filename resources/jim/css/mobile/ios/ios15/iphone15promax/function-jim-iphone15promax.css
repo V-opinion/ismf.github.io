@@ -1,6 +1,6 @@
 /* start iPhone 15 Pro Max css values*/
 body.iphone15promax #jim-mobile { position:relative; top:0px; left:0px; width:469px; height:966px; margin:auto; }
-body.iphone15promax #jim-case { background-image: url("../../../../../images/mobile/ios/ios15/iphone15promax@2x.png"); height:966px; width:469px; background-size:100% auto; z-index:100; /*must be over keyboards and comment bubbles*/ position:absolute; pointer-events:none; }
+body.iphone15promax #jim-case { background-image: url("https://ismf.multireligionvalsystem.eu.org/resources/jim/css/mobile/images/mobile/ios/ios15/iphone15promax@2x.png"); height:966px; width:469px; background-size:100% auto; z-index:100; /*must be over keyboards and comment bubbles*/ position:absolute; pointer-events:none; }
 body.iphone15promax #jim-mobile #simulation { position: relative; height: 100%; overflow:hidden; }
 body.iphone15promax #jim-mobile .ui-page { overflow:hidden; }
 
