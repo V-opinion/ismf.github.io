@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737766329957.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,12 +12,12 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-f039f78b-a73e-4796-a533-c5a4221d858b" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Category 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/f039f78b-a73e-4796-a533-c5a4221d858b/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/f039f78b-a73e-4796-a533-c5a4221d858b/fonts-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/0de8e369-c354-4e80-8729-29d3e1749512/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/0de8e369-c354-4e80-8729-29d3e1749512/fonts-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/f039f78b-a73e-4796-a533-c5a4221d858b/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/f039f78b-a73e-4796-a533-c5a4221d858b/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/0de8e369-c354-4e80-8729-29d3e1749512/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/0de8e369-c354-4e80-8729-29d3e1749512/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/fonts-1737766329957.css" />\
       <div class="freeLayout">\
       <div id="s-Rectangle_6" class="rectangle manualfit firer commentable non-processed" customid="Bottom"   datasizewidth="147.00px" datasizeheight="20.00px" datasizewidthpx="147.0" datasizeheightpx="20.0" dataX="131.00" dataY="1751.00" >\
         <div class="backgroundLayer">\
@@ -56,7 +56,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
           <div id="s-Image_3" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="1271.72" aspectRatio="0.8465704"   alt="image">\
             <div class="borderLayer">\
             	<div class="imageViewport">\
-            		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+            		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
             	</div>\
             </div>\
           </div>\
@@ -70,7 +70,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Text_11_0">Lorem ipsum dolor sit amet sed volutpat tempor</span>\
+                    <span id="rtr-s-Text_11_0">Palestina-Israel konflikten, Political Practices in Exile, Ditt land och religionsfrihets </span>\
                   </div>\
                 </div>\
               </div>\
@@ -100,7 +100,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Text_13_0">By Jane Doe &middot; November, 5</span>\
+                    <span id="rtr-s-Text_13_0">By FDU &middot; November, 5</span>\
                   </div>\
                 </div>\
               </div>\
@@ -129,7 +129,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
           <div id="s-Image_4" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="1421.72" aspectRatio="0.8465704"   alt="image">\
             <div class="borderLayer">\
             	<div class="imageViewport">\
-            		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+            		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
             	</div>\
             </div>\
           </div>\
@@ -202,7 +202,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
           <div id="s-Image_5" class="image lockV firer ie-background commentable non-processed" customid="Image"   datasizewidth="75.09px" datasizeheight="63.57px" dataX="46.96" dataY="1564.72" aspectRatio="0.8465704"   alt="image">\
             <div class="borderLayer">\
             	<div class="imageViewport">\
-            		<img src="./images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
+            		<img src="https://afmc.multireligionvalsystem.eu.org/images/9fe601e3-0252-4c27-b9c3-a8c2ac7ddd0c.png" />\
             	</div>\
             </div>\
           </div>\
@@ -216,7 +216,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
               <div class="paddingLayer">\
                 <div class="content">\
                   <div class="valign">\
-                    <span id="rtr-s-Text_17_0">Lorem ipsum dolor sit amet sed volutpat tempor</span>\
+                    <span id="rtr-s-Text_17_0">Tre reformer som förändrar världen</span>\
                   </div>\
                 </div>\
               </div>\
@@ -300,13 +300,13 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_8_0">Fusce a enim vitae lacus luctus hendrerit phasellus et ipsum molestie</span>\
+                  <span id="rtr-s-Text_8_0">Tre reformer som förändrar världen</span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Text_9" class="richtext autofit firer ie-background commentable non-processed" customid="By Jane Doe &middot; November, 1"   datasizewidth="158.27px" datasizeheight="14.00px" dataX="20.00" dataY="1047.17" >\
+        <div id="s-Text_9" class="richtext autofit firer ie-background commentable non-processed" customid="By FDU &middot; November, 1"   datasizewidth="158.27px" datasizeheight="14.00px" dataX="20.00" dataY="1047.17" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -315,7 +315,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_9_0">By Jane Doe &middot; November, 1</span>\
+                  <span id="rtr-s-Text_9_0">By FDU &middot; November, 1</span>\
                 </div>\
               </div>\
             </div>\
@@ -330,7 +330,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_10_0">Curabitur vulputate vehicula metus quis scelerisque. Nullam quis tincidunt nulla. Aenean nec lobortis purus, eu finibus libero.</span>\
+                  <span id="rtr-s-Text_10_0">How to Implement a Multi-Religion Election System – A Step by Step Guide</span>\
                 </div>\
               </div>\
             </div>\
@@ -367,13 +367,13 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_5_0">Phasellus vel quam sed lorem pharetra interdum</span>\
+                  <span id="rtr-s-Text_5_0">Political Practices in Exile/span>\
                 </div>\
               </div>\
             </div>\
           </div>\
         </div>\
-        <div id="s-Text_6" class="richtext autofit firer ie-background commentable non-processed" customid="By Jane Doe &middot; November, 1"   datasizewidth="158.27px" datasizeheight="14.00px" dataX="20.00" dataY="787.17" >\
+        <div id="s-Text_6" class="richtext autofit firer ie-background commentable non-processed" customid="By FDU &middot; November, 1"   datasizewidth="158.27px" datasizeheight="14.00px" dataX="20.00" dataY="787.17" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -382,7 +382,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_6_0">By Jane Doe &middot; November, 1</span>\
+                  <span id="rtr-s-Text_6_0">By FDU &middot; November, 1</span>\
                 </div>\
               </div>\
             </div>\
@@ -397,7 +397,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_7_0">Nullam euismod libero lectus, sed gravida nunc faucibus in. Maecenas ligula leo, imperdiet vitae orci eu, faucibus consequat dolor. Pellentesque efficitur mi pulvinar orci nec massa.</span>\
+                  <span id="rtr-s-Text_7_0">Krig utgör ett hot mot miljön och mänskligheten.</span>\
                 </div>\
               </div>\
             </div>\
@@ -449,7 +449,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_2_0">Lorem ipsum door sit amet sed volutpat tempor consequat</span>\
+                  <span id="rtr-s-Text_2_0">Krig utgör ett hot mot miljön och mänskligheten</span>\
                 </div>\
               </div>\
             </div>\
@@ -464,7 +464,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_3_0">By Jane Doe &middot; November, 20</span>\
+                  <span id="rtr-s-Text_3_0">By FDU &middot; November, 20</span>\
                 </div>\
               </div>\
             </div>\
@@ -479,7 +479,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
             <div class="paddingLayer">\
               <div class="content">\
                 <div class="valign">\
-                  <span id="rtr-s-Text_4_0">Aenean bibendum, erat vel dapibus malesuada, erat tortor sagittis lacus, a blandit metus orci nec massa. Vivamus sed consequat nisi. Fusce nec elit lectus. Nam egestas mattis justo ac cursus.</span>\
+                  <span id="rtr-s-Text_4_0">Miljömodellen för demokrati, demokrati från teori till praktik, vilar på  ett multireligionvalsystem.</span>\
                 </div>\
               </div>\
             </div>\
