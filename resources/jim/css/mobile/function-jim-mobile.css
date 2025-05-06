@@ -28,7 +28,7 @@ body.devMobile #jim-body.controlled-nocom {top:62px;}
 body.devMobile .cursor {
 	position: absolute;
     z-index: 999;
-    background-image: url(../../css/images/touch.png);
+    background-image: url(https://ismf.multireligionvalsystem.eu.org/resources/jim/css/mobile/css/images/touch.png);
     background-size: 41px 41px;
     width: 41px;
     height: 41px;
@@ -44,12 +44,12 @@ body.devMobile #jim-mobile{display:block;}
 body.devMobile { display:none; overflow: hidden; }
 
 /* cursors */
-body.devMobile #jim-container.touch { cursor: url('../images/touch.png') 16 16, auto; }
-body.devMobile #jim-container.touch * { cursor: url('../images/touch.png') 16 16, auto; }
+body.devMobile #jim-container.touch { cursor: url('https://ismf.multireligionvalsystem.eu.org/resources/jim/css/mobile/images/touch.png') 16 16, auto; }
+body.devMobile #jim-container.touch * { cursor: url('https://ismf.multireligionvalsystem.eu.org/resources/jim/css/mobile/images/touch.png') 16 16, auto; }
 
 @media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
-     body.devMobile #jim-container.touch { cursor: url('./resources/jim/css/images/touch.cur'), auto; }
-	 body.devMobile #jim-container.touch * { cursor: url('./resources/jim/css/images/touch.cur'), auto;  }
+     body.devMobile #jim-container.touch { cursor: url('https://ismf.multireligionvalsystem.eu.org/resources/jim/css/mobile/resources/jim/css/images/touch.cur'), auto; }
+	 body.devMobile #jim-container.touch * { cursor: url('https://ismf.multireligionvalsystem.eu.org/resources/jim/css/mobile/resources/jim/css/images/touch.cur'), auto;  }
 }
 
 body.devMobile #jim-container { cursor: none; }
