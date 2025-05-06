@@ -20,7 +20,7 @@ body.devIOS .checkboxlist .scroll, body.devIOS .radiobuttonlist .scroll { overfl
 .canvas.devIOS .nativedropdown.inputIOS[disabled="disabled"] { color: #000000; }
 .canvas.devIOS .nativedropdown.inputIOS.pressed .backgroundLayer { border-color: #102b7f; }
 .canvas.devIOS .nativedropdown.inputIOS .icon { position:relative; top:0px; width: 20px; height: 20px; float: right; background-repeat: no-repeat; background-position: 50% 50%; padding-right: 0px; border-top-right-radius: 5px; border-bottom-right-radius: 5px;
-  background-image: url("../../../images/mobile/ios/common/ios_dropdown_icon.svg"); background-size:8px 9px;
+  background-image: url("https://ismf.multireligionvalsystem.eu.org/resources/jim/css/mobile/images/mobile/ios/common/ios_dropdown_icon.svg"); background-size:8px 9px;
 }
 .canvas.devIOS .nativedropdown.inputIOS[readonly="readonly"] {opacity:0.5;}
 
