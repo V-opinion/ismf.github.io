@@ -2,8 +2,8 @@ var content='<div class="ui-page ui-component" deviceName="web" deviceType="desk
     <div id="m-0de8e369-c354-4e80-8729-29d3e1749512" class="master growth-vertical devWeb canvas firer ie-background commentable non-processed" alignment="left" name="Tabs"width="429" height="49">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/masters/0de8e369-c354-4e80-8729-29d3e1749512/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/0de8e369-c354-4e80-8729-29d3e1749512/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/0de8e369-c354-4e80-8729-29d3e1749512/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/0de8e369-c354-4e80-8729-29d3e1749512/fonts-1737766329957.css" />\
       <div class="freeLayout">\
       <div id="Dynamic_panel_2" class="dynamicpanel firer ie-background commentable non-processed" customid="Tabs categories" datasizewidth="430.00px" datasizeheight="49.33px" dataX="0.00" dataY="0.00" >\
         <div id="Panel_2" class="panel default firer ie-background commentable non-processed" customid="Panel"  datasizewidth="430.00px" datasizeheight="49.33px" >\
