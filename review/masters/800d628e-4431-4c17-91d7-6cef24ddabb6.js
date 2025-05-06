@@ -2,7 +2,7 @@ var content='<div class="ui-page ui-component" deviceName="web" deviceType="desk
     <div id="m-800d628e-4431-4c17-91d7-6cef24ddabb6" class="master growth-vertical devWeb canvas firer ie-background commentable non-processed" alignment="left" name="Bottom nav menu"width="428" height="91">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
       <div class="freeLayout">\
       <div id="Dynamic_panel_3" class="dynamicpanel firer commentable non-processed" customid="Bottom nav menu" datasizewidth="429.00px" datasizeheight="91.00px" dataX="0.00" dataY="0.00" >\
         <div id="Panel_3" class="panel default firer commentable non-processed" customid="Panel"  datasizewidth="429.00px" datasizeheight="91.00px" >\
