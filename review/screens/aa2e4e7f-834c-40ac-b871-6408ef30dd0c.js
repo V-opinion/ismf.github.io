@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devMobile devIOS iphone-device canvas firer commentable non-processed" alignment="left" name="Template 1"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1737766329957.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,10 +12,10 @@ var content='<div class="ui-page " deviceName="iphone15promax" deviceType="mobil
     <div id="s-aa2e4e7f-834c-40ac-b871-6408ef30dd0c" class="screen growth-vertical devMobile devIOS iphone-device canvas PORTRAIT firer pageload ie-background commentable non-processed" alignment="left" name="Account"width="430" height="932">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/aa2e4e7f-834c-40ac-b871-6408ef30dd0c/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/screens/aa2e4e7f-834c-40ac-b871-6408ef30dd0c/fonts-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
-      <link type="text/css" rel="stylesheet" href="./review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/aa2e4e7f-834c-40ac-b871-6408ef30dd0c/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/screens/aa2e4e7f-834c-40ac-b871-6408ef30dd0c/fonts-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/style-1737766329957.css" />\
+      <link type="text/css" rel="stylesheet" href="https://afmc.multireligionvalsystem.eu.org/review/masters/800d628e-4431-4c17-91d7-6cef24ddabb6/fonts-1737766329957.css" />\
       <div class="freeLayout">\
       <div id="s-Path_7" class="path firer ie-background commentable non-processed" customid="Divider"   datasizewidth="386.81px" datasizeheight="3.00px" dataX="24.50" dataY="235.00"  >\
         <div class="borderLayer">\
